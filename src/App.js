@@ -191,14 +191,14 @@ function App() {
                         if(tajmerNaMasini < 0) { tajmerNaMasini += 24; } //posto prikazujemo samo sate i minute, ako je nesto manje racunaj da je u pitanju sledeci dan
 
                         if(tajmerNaMasini > 23) {
-                          setNaslovUpozorenja("Previše dugo, maksimum tajmera je 24h")
+                          setNaslovUpozorenja("Previše kasno, maksimum tajmera je 24h")
                           setUpozorenjeDijalog(true);
                           return;
                         }
 
                         //provera dal je pranje moguce, unazad, tajmer mora da bude veci od duzine pranja
                         if(tajmerNaMasini * 60 < duzinaPranja.minut + duzinaPranja.sat * 60) {
-                          setNaslovUpozorenja("Previše kratko, biti duži od dužine pranja")
+                          setNaslovUpozorenja("Previše rano, tajmer biti duži od dužine pranja")
                           setUpozorenjeDijalog(true);
                           return;
                         }
