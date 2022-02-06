@@ -1,5 +1,5 @@
 # Veš Mašina Kalkulator
-<img style="float: left;" src="assets/logo192.png">
+<img align="left" src="assets/logo192.png">
 
 [Probaj Aplikaciju](GHPAGESLINK)
 
