@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ves-masina-kalkulator/static/css/main.d0389745.css",
-    "main.js": "/ves-masina-kalkulator/static/js/main.84857e18.js",
+    "main.js": "/ves-masina-kalkulator/static/js/main.72d00758.js",
     "static/js/377.fffdcd3b.chunk.js": "/ves-masina-kalkulator/static/js/377.fffdcd3b.chunk.js",
     "service-worker.js": "/ves-masina-kalkulator/service-worker.js",
     "index.html": "/ves-masina-kalkulator/index.html",
     "main.d0389745.css.map": "/ves-masina-kalkulator/static/css/main.d0389745.css.map",
-    "main.84857e18.js.map": "/ves-masina-kalkulator/static/js/main.84857e18.js.map",
+    "main.72d00758.js.map": "/ves-masina-kalkulator/static/js/main.72d00758.js.map",
     "377.fffdcd3b.chunk.js.map": "/ves-masina-kalkulator/static/js/377.fffdcd3b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0389745.css",
-    "static/js/main.84857e18.js"
+    "static/js/main.72d00758.js"
   ]
 }
