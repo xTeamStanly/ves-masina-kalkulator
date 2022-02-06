@@ -1,7 +1,7 @@
 # Veš Mašina Kalkulator
 <img align="left" src="assets/logo192.png">
 
-[Probaj Aplikaciju](http://xteamstanly.github.io/ves-masina-kalkulator)
+[Probaj Aplikaciju](http://xteamstanly.github.io/ves-masina-kalkulator) ⬅ PWA
 
 Izračunava na koliko je potrebno naštelovati tajmer veš mašine. Napravljen je za kućnu upotrebu :D. Poneke veš mašine koje imaju mogućnost da se odloži pranje veša, nemaju odlaganje početka pranja,
 nego imaju drugu opciju, podešavanje kraja pranja, odnosno za koliko se sati kraj pranja odlaže.
