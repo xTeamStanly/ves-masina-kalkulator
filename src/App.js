@@ -198,7 +198,7 @@ function App() {
 
                         //provera dal je pranje moguce, unazad, tajmer mora da bude veci od duzine pranja
                         if(tajmerNaMasini * 60 < duzinaPranja.minut + duzinaPranja.sat * 60) {
-                          setNaslovUpozorenja("Previše rano, tajmer biti duži od dužine pranja")
+                          setNaslovUpozorenja("Previše rano, tajmer mora biti duži od dužine pranja")
                           setUpozorenjeDijalog(true);
                           return;
                         }

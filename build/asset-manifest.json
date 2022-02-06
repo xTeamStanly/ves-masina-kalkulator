@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.d0389745.css",
-    "main.js": "/static/js/main.e111563a.js",
-    "static/js/377.fffdcd3b.chunk.js": "/static/js/377.fffdcd3b.chunk.js",
-    "service-worker.js": "/service-worker.js",
-    "index.html": "/index.html",
-    "main.d0389745.css.map": "/static/css/main.d0389745.css.map",
-    "main.e111563a.js.map": "/static/js/main.e111563a.js.map",
-    "377.fffdcd3b.chunk.js.map": "/static/js/377.fffdcd3b.chunk.js.map"
+    "main.css": "/ves-masina-kalkulator/static/css/main.d0389745.css",
+    "main.js": "/ves-masina-kalkulator/static/js/main.40ab5af9.js",
+    "static/js/377.fffdcd3b.chunk.js": "/ves-masina-kalkulator/static/js/377.fffdcd3b.chunk.js",
+    "service-worker.js": "/ves-masina-kalkulator/service-worker.js",
+    "index.html": "/ves-masina-kalkulator/index.html",
+    "main.d0389745.css.map": "/ves-masina-kalkulator/static/css/main.d0389745.css.map",
+    "main.40ab5af9.js.map": "/ves-masina-kalkulator/static/js/main.40ab5af9.js.map",
+    "377.fffdcd3b.chunk.js.map": "/ves-masina-kalkulator/static/js/377.fffdcd3b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0389745.css",
-    "static/js/main.e111563a.js"
+    "static/js/main.40ab5af9.js"
   ]
 }
