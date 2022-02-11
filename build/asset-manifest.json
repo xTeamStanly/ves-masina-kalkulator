@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ves-masina-kalkulator/static/css/main.d0389745.css",
-    "main.js": "/ves-masina-kalkulator/static/js/main.40ab5af9.js",
+    "main.css": "/ves-masina-kalkulator/static/css/main.6fd6abc9.css",
+    "main.js": "/ves-masina-kalkulator/static/js/main.b24c3385.js",
     "static/js/377.fffdcd3b.chunk.js": "/ves-masina-kalkulator/static/js/377.fffdcd3b.chunk.js",
     "service-worker.js": "/ves-masina-kalkulator/service-worker.js",
     "index.html": "/ves-masina-kalkulator/index.html",
-    "main.d0389745.css.map": "/ves-masina-kalkulator/static/css/main.d0389745.css.map",
-    "main.40ab5af9.js.map": "/ves-masina-kalkulator/static/js/main.40ab5af9.js.map",
+    "main.6fd6abc9.css.map": "/ves-masina-kalkulator/static/css/main.6fd6abc9.css.map",
+    "main.b24c3385.js.map": "/ves-masina-kalkulator/static/js/main.b24c3385.js.map",
     "377.fffdcd3b.chunk.js.map": "/ves-masina-kalkulator/static/js/377.fffdcd3b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0389745.css",
-    "static/js/main.40ab5af9.js"
+    "static/css/main.6fd6abc9.css",
+    "static/js/main.b24c3385.js"
   ]
 }
